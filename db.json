@@ -1,0 +1,15 @@
+{
+    "users": [{
+
+        "id": 1,
+        "name": "Deco Teixeira",
+        "email": "decotxr@sawa.com"
+
+    },{
+
+        "id": 2,
+        "name": "Gabrigo Moriveira",
+        "email": "gmor@gmor.com"
+
+    }]
+}
